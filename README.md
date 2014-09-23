@@ -1,4 +1,4 @@
-poker-player-ruby
+poker-player-R
 =================
 
 R client skeleton for Lean Poker
