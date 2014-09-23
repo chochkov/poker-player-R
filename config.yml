@@ -1,0 +1,4 @@
+url: http://localhost:8090/custom/lean/
+port: 8090
+path: /
+dependencies:
