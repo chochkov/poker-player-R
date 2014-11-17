@@ -1,5 +1,6 @@
 #!/usr/bin/Rscript
 
+library(methods)
 library(Rook)
 library(yaml)
 library(rjson)
